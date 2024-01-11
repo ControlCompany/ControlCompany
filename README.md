@@ -89,8 +89,9 @@ To enable the Extended mode, **press ('0' digit key)** while in Player mode. Thi
 - **'9'**: Teleport inside the main entrance.
 
 
-## Dependencies
-1. [BelphinEx](https://thunderstore.io/package/bbepis/BepInExPack/): This is used to load and run the mod.
+## Installation
+1. Install [BepInEx](https://thunderstore.io/package/bbepis/BepInExPack/). This is used to load and run the mod.
+2. Download this mod and place the `ControlCompany.dll` into your `BepInEx/plugins` folder.
 
 ## FAQ
 ### Does the mod work in multiplayer lobbies?
